@@ -1,0 +1,14 @@
+- nom: Czarnecki Camille
+  hobbies: cheval
+  motivation: aucune
+  age: 22
+
+- nom: Lemolt Maxime
+  hobbies: programmation
+  motivation: +++
+  age: 20
+
+- nom: Bouhana Nahim
+  hobbies: ping pong
+  motivation: +-
+  age: 20

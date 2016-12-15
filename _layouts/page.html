@@ -1,0 +1,34 @@
+---
+---
+<!DOCTYPE html>
+<html>
+    <head>
+{% include head.html %}
+<title> {{site.title}}  {{page.title}} </title>
+    </head>
+    <body>
+
+    <header>
+{% include header.html %}
+    </header>
+
+<main> 
+
+    {{ content }}
+    
+    {% for post in site.posts %}
+           
+   
+  
+    {{ post.content }}
+  
+  {% endfor %}
+
+</main>
+
+    <footer>
+{% include footer.html %}    
+    </footer>    
+        
+    </body>
+</html>
