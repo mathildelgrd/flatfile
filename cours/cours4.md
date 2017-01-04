@@ -32,3 +32,10 @@ e-commerce : domaine très spécifique
 * Assurance
 * Mode de livraison
 * Multilangues 
+
+## Idée de site ##
+* Boutiques de casquettes de Mario
+* logo :
+* nom : Cap'tain
+* baseline :
+* 10/15 produits : (titre, prix, description, visuels...)
