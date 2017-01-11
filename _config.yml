@@ -8,4 +8,4 @@ collections:
   uploads:
     title: Uploads
     output: true
-baseurl : https://mathildelgrd.github.io/flatfile
+baseurl: https://mathildelgrd.github.io/flatfile
