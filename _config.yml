@@ -15,26 +15,3 @@ collections:
     title: Uploads
     output: true
 baseurl: https://mathildelgrd.github.io/flatfile
----
-title: Snipcart
-url: 'https://snipcart.github.io/snipcart-jamstack'
-snipcart_api_key: ''
-defaults:
-- scope:
-    path: ''
-    type: products
-  values:
-    layout: product
-    permalink: "/products/:title/"
-    name: ''
-    price: 0.0
-    sku: ''
-    image: ''
-    weight: 0.0
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
-
