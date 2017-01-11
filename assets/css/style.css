@@ -15,6 +15,11 @@ head {
     max-width: 45rem;
 }
 
+nav {
+    width: 100%;
+
+}
+
 nav ul li {
     display: inline;
 
