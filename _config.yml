@@ -8,7 +8,6 @@ collections:
   products:
     title: Products
     output: true
-    permalink: captainmario.siteleaf.net/shop/
   uploads:
     title: Uploads
     output: true
