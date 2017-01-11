@@ -1,7 +1,8 @@
 ---
-layout : page
-title : Contact
+title: Contact
+layout: page
 ---
+
 * Nom : Legrand	
 * Prénom : Mathilde
 * E-mail : mathilde-legrand@live.fr  	
