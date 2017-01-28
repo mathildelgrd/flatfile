@@ -1,0 +1,21 @@
+ 
+  {
+  "name": "Licence Pro 2016/17",
+  "partners": [
+    {
+      "name": "Czarnecki Camille",
+      "hobbies": "cheval",
+      "age": "22"
+    },
+    {
+      "name": "Lemolt Maxime",
+      "hobbies": "programmation",
+      "age": "20"
+    },
+    {
+      "name": "Bouhana Nahim",
+      "hobbies": "ping pong",
+      "age": "20"
+    }
+  ]
+}
