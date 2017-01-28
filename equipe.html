@@ -4,7 +4,7 @@ layout: page
 ---
 
 {% for site in site.data.partner %}
-   
-        {{ partners.name }}
-    
+       {% for partner in licence %}
+       {{ partners.name }}
+    {% endfor %} 
 {% endfor %}
