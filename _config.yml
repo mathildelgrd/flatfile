@@ -28,6 +28,5 @@ defaults:
     type: pages
   values:
     layout: page
-
 snipcart_api_key: 
 permalink: pretty
